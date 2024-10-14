@@ -1,0 +1,35 @@
+h1{
+    text-decoration-style: dashed;
+    text-decoration-color: rgb(245, 242, 242);
+    text-decoration-line: underline;
+    text-transform: uppercase;
+    color: white;
+}
+p{
+    word-spacing: 20px;
+    line-height: 30px;
+    color: white;
+}
+body{
+    background-color: black;
+}
+#h1{
+    text-shadow: 2px 2px 15px red, 5px 5px 10px orange, 6px 6px 20px green;
+}
+h2{
+    font-family: "Merienda", cursive;
+    font-optical-sizing: auto;
+    font-weight: 50px;
+    font-style : normal;
+    
+}
+i{
+    color: aqua;
+}
+a{
+   color: aqua;
+   background-color: blueviolet;
+   border: 1px solid brown;
+   text-decoration: none;
+
+}
